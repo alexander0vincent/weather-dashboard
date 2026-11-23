@@ -1,23 +1,23 @@
-# Weather Dashboard
+## Weather Information
 
-A web application for viewing current weather information using Open-Meteo.
+This application provides a simple interface
+for exploring weather information.
 
-## Features
+### Available Information
 
-- City search
-- Temperature display
-- Humidity and wind speed
+- Current temperature
+- Humidity information
+- Wind speed
+- Weather conditions
 
-## How to Use
+### Usage Guidelines
 
-Enter a city name and search for weather information. Internet access is required.
+1. Open the weather dashboard.
+2. Enter a supported city name.
+3. Search for weather information.
+4. Review the displayed results.
 
-## Technologies
+### Notes
 
-- HTML
-- CSS
-- JavaScript
-
-## Running Locally
-
-Open `index.html` in a modern web browser.
+An internet connection may be required
+to retrieve updated weather information.
