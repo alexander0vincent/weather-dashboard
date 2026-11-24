@@ -21,3 +21,12 @@ for exploring weather information.
 
 An internet connection may be required
 to retrieve updated weather information.
+## Manual Testing Checklist
+
+- [ ] Search for a supported city and review the weather results.
+- [ ] Try an unknown city and check the displayed feedback.
+- [ ] Check whether the application handles a network failure.
+
+### Test Notes
+
+Record the observed result and any reproducible issue after running the tests.
